@@ -1,4 +1,17 @@
 # TNXQSO-RDA-tracker
+<p align="left">
+  <img src="tnx_rda.png" alt="Main screen" width="600"/>
+</p>
+
+<p align="left">
+  <img src="rda_slots.png" alt="Slots" width="600"/>
+</p
+
+<p align="center">
+  <img src="rda_novi.png" alt="New band" width="350"/>
+</p>
+
+
 # TNX Monitor + RDA Cluster Live 📡
 
 An advanced Python monitoring application designed for amateur radio operators targeting the **RDA (Russian District Award)** program. 
